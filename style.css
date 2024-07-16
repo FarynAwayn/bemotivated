@@ -1,0 +1,11 @@
+* {text-align: center; align-content: center; color: white; background-color:black}
+img {border: 5px double; width: 100%}
+h2 {font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal; font-size: 40pt;
+    text-transform: uppercase}
+p {font-family: "Libre Baskerville", serif}
+div {width: 50%; margin-left: 25%; margin-bottom: 200px; margin-top: 300px}
+h1 {font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal; font-size: 40pt; padding-top: 50px; margin-bottom: 800px}
